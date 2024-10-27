@@ -1,0 +1,50 @@
+- Custom Temperature Overlay
+    - 温度オーバーレイの温度ごとの色を変更
+- Bigger Camera Zoom Out
+    - カメラを極限まで引くことができる
+    - マップ全体を一画面に収めるときとかに便利
+- Gas Overlay
+    - 気体オーバーレイの拡張。気体量によって色の濃さが変わるようになる
+- Customizable Speed
+    - ゲームの進行速度を変更できる
+- DGSM
+    - 任意の能力を持った複製人間を作成できる
+    - 3日に1回のPrintでリロードが出来るようになる
+- Rational Priority
+    - 近い場所ほど行動の優先度が上がるようになる
+- Quick Priority
+    - 優先度設定画面で数字キーを押すと、その数字の優先度が設定されるようになる
+    - デフォルトは数字に対応した建築パネルがアクティブになる
+- Priority Master // by @Ony
+    - 優先度順がRimWorld風になる
+- Better Automation Overlay
+    - 自動化オーバーレイ拡張。各種、判定パネルの条件が表示されるようになる
+- Efficient Supply
+    - 資源の少量運送をしなくなる
+- No Long Commutes
+    - 移動時間が長すぎます、の警告が表示されないようになる
+- No Manual Delivery
+    - 複製人間が手動で物資を運ばないように設定できるようになる
+- Rest for the weary
+    - 休息前に仕事を切り上げるスケジュールを登録できるようになる
+- Show Building Ranges
+    - 建築時に建設物の有効範囲を表示してくれる
+- Schedule Master
+    - スケジュール管理をしやすくなる
+- Better Info Cards
+    - 情報カードを見やすくまとめてくれる（情報の欠落が発生することあり）
+- Rename Asteroids
+    - 惑星の名前変更が可能になる
+- Research Queue
+    - 順番を指定して研究を連続で出来るようになる
+- Aquatic Farm
+    - 水耕栽培ができるようになる
+- Airlock Door
+    - 気体を一切通さない気密ドアを追加
+- 植物の上にビルド
+    - 植物越しにハシゴとかを建築指示出せるようになる
+- Bigger Building Menu
+    - 建物パネルが大きくなる
+
+----
+Next: [[サイクル001|サイクル001]]
