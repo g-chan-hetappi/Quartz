@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: じーちゃんのゲームログ置き場
 ---
+じーちゃんのゲームプレイの記録が置いてあります。
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- [[OxygenNotIncluded/マスクメロン(FrostyPlanetPack)/md/mod|Oxygen Not Included (FrostyPlanetPack) - マスクメロン]]
